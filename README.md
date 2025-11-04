@@ -4,24 +4,29 @@
 Web ini dibuat menggunakan **framework Laravel** dan **library React**.  
 Fungsi utama dari web ini adalah untuk mencatat dan mengelola *To-Do List* dari pengguna.
 
----
 
 ## ⚙️ Cara Instalasi
 
 1. **Clone repository** menggunakan Git Bash:
-   git clone https://github.com/Noobsdevil/Project-IT-PCE-2026-To-Do-List.git
-
+````
+````md
+    git clone https://github.com/Noobsdevil/Project-IT-PCE-2026-To-Do-List.git
+````
 Atau, **download file ZIP** dari repository ini dan **extract** ke dalam sebuah folder.
 
 2. Buka terminal (Git Bash atau terminal lain), lalu masuk ke folder hasil extract tersebut.
 
 3. Jalankan perintah berikut untuk menginstall semua dependency:
 
+   ```bash
    npm install
+   ```
 
 4. Setelah instalasi selesai, jalankan perintah berikut untuk menjalankan aplikasi:
 
+   ```bash
    npm run dev
+   ```
 
 5. Salin alamat IP server (biasanya ditampilkan di terminal) dan **buka di browser pilihan Anda**.
 
@@ -67,3 +72,4 @@ Dibuat oleh **Noobsdevil**
 
 ```
 ```
+can you show this in markdown format
